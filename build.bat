@@ -3,7 +3,7 @@
 
 @echo off
 rem variables 
-set "name_webapp=sprint0"
+set "name_webapp=name_webapp"
 set "TOMCAT_PATH=C:\Program Files\Apache Software Foundation\Tomcat 10.1"
 set "WORK_PATH=D:\S5\Mr Naina\Sprint\%name_webapp%"
 set "CATALINA_HOME=%TOMCAT_PATH%"
